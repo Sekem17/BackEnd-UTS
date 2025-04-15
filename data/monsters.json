@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Goblin",
+        "type": "Humanoid",
+        "rarity": "Common",
+        "health": 30,
+        "attack": 5,
+        "defense": 2,
+        "speed": 5,
+        "challenge_rating": 1,
+        "special_ability": "Sneak Attack",
+        "description": "A small, green creature known for its cunning and agility."
+    },
+
+    {
+       "name": "Troll",
+        "type": "Humanoid",
+        "rarity": "Uncommon",
+        "health": 100,
+        "attack": 15,
+        "defense": 10,
+        "speed": 1,
+        "challenge_rating": 10,
+        "special_ability": "Regenerate",
+        "description": "A large, brutish creature with immense strength."
+    },
+
+    {
+        "name": "Elf",
+        "type": "Humanoid",
+        "rarity": "Rare",
+        "health": 300,
+        "attack": 50,
+        "defense": 20,
+        "speed": 10,
+        "challenge_rating": 15,
+        "special_ability": "Elf Call",
+        "description": "A unique creature that live in the woods"
+    },
+
+    {
+        "name": "Dragon",
+        "type": "Humanoid",
+        "rarity": "Epic",
+        "health": 10000,
+        "attack": 1500,
+        "defense": 1000,
+        "speed": 100,
+        "challenge_rating": 100,
+        "special_ability": "Fire Breath",
+        "description": "A legendary creature known for its power and majesty."
+    }
+]
+ 
