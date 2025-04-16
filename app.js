@@ -4,7 +4,7 @@ const monstersRoute = require('./routes/monsters');
 const mongoose = require('mongoose');
 
 app.use(express.json());
-app.use('/api/monsters', monstersRoute);
+app.use('/api/v1/monsters', monstersRoute);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
