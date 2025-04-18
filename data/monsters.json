@@ -3,13 +3,56 @@
         "name": "Goblin",
         "type": "Humanoid",
         "rarity": "Common",
-        "health": 30,
+        "health": 20,
         "attack": 5,
         "defense": 2,
         "speed": 5,
-        "challenge_rating": 1,
+        "challenge_rating": 5,
         "special_ability": "Sneak Attack",
-        "description": "A small, green creature known for its cunning and agility."
+        "description": "A small, green creature known for its cunning and agility.",
+        "num": 1
+    },
+
+    {
+        "name": "Slime",
+        "type": "Aberration",
+        "rarity": "Common",
+        "health": 10,
+        "attack": 3,
+        "defense": 1,
+        "speed": 2,
+        "challenge_rating": 1,
+        "special_ability": "Acidic Touch",
+        "description": "A gelatinous creature that can dissolve organic matter.",
+        "num": 2
+    },
+
+    {
+        "name": "Skeleton",
+        "type": "Undead",
+        "rarity": "Common",
+        "health": 20,
+        "attack": 7,
+        "defense": 1,
+        "speed": 4,
+        "challenge_rating": 5,
+        "special_ability": "Undead Fortitude",
+        "description": "A reanimated corpse that is resistant to many forms of damage.",
+        "num": 3
+    },
+
+    {
+        "name": "Zombie",
+        "type": "Undead",
+        "rarity": "Common",
+        "health": 40,
+        "attack": 8,
+        "defense": 4,
+        "speed": 3,
+        "challenge_rating": 8,
+        "special_ability": "Undead Fortitude",
+        "description": "A mindless creature that attacks anything living.",
+        "num": 4
     },
 
     {
@@ -17,38 +60,83 @@
         "type": "Humanoid",
         "rarity": "Uncommon",
         "health": 100,
-        "attack": 15,
+        "attack": 20,
         "defense": 10,
         "speed": 1,
-        "challenge_rating": 10,
+        "challenge_rating": 15,
         "special_ability": "Regenerate",
-        "description": "A large, brutish creature with immense strength."
+        "description": "A large, brutish creature with immense strength.",
+        "num": 5
     },
 
     {
-        "name": "Elf",
+        "name": "Orc",
+        "type": "Humanoid",
+        "rarity": "Uncommon",
+        "health": 80,
+        "attack": 15,
+        "defense": 8,
+        "speed": 4,
+        "challenge_rating": 20,
+        "special_ability": "Brutal Charge",
+        "description": "A savage warrior known for their ferocity in battle.",
+        "num": 6
+    },
+
+    {
+        "name": "Giant Spider",
+        "type": "Beast",
+        "rarity": "Uncommon",
+        "health": 60,
+        "attack": 12,
+        "defense": 5,
+        "speed": 4,
+        "challenge_rating": 12,
+        "special_ability": "Webbing",
+        "description": "A large spider that can ensnare its prey in webs.",
+        "num": 7
+    },
+
+    {
+        "name": "Dark Elf",
         "type": "Humanoid",
         "rarity": "Rare",
-        "health": 300,
-        "attack": 50,
-        "defense": 20,
-        "speed": 10,
-        "challenge_rating": 15,
+        "health": 110,
+        "attack": 25,
+        "defense": 10,
+        "speed": 20,
+        "challenge_rating": 25,
         "special_ability": "Elf Call",
-        "description": "A unique creature that live in the woods"
+        "description": "A unique creature that live in the woods",
+        "num": 8
+    },
+
+    {
+        "name": "Vampire",
+        "type": "Undead",
+        "rarity": "Rare",
+        "health": 150,
+        "attack": 30,
+        "defense": 15,
+        "speed": 10,
+        "challenge_rating": 30,
+        "special_ability": "Blood Drain",
+        "description": "A creature that feeds on the blood of the living.",
+        "num": 9
     },
 
     {
         "name": "Dragon",
         "type": "Humanoid",
         "rarity": "Epic",
-        "health": 10000,
-        "attack": 1500,
-        "defense": 1000,
+        "health": 1000,
+        "attack": 150,
+        "defense": 100,
         "speed": 100,
         "challenge_rating": 100,
         "special_ability": "Fire Breath",
-        "description": "A legendary creature known for its power and majesty."
+        "description": "A legendary creature known for its power and majesty.",
+        "num": 10
     }
 ]
  
