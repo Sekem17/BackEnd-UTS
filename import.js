@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const fs = require('fs');
-const Monster = require('./models/Monster');
+const Weapon = require('./models/Weapon');
 
 mongoose.connect('mongodb+srv://Samuel:popapopi17@contohcluster.27tfw.mongodb.net/?retryWrites=true&w=majority&appName=contohCluster', {
     useNewUrlParser: true,
@@ -9,10 +9,10 @@ mongoose.connect('mongodb+srv://Samuel:popapopi17@contohcluster.27tfw.mongodb.ne
 .then(async () => {
     console.log('Connected to MongoDB');
     
-    const data = fs.readFileSync('./data/monsters.json');
-    const monsters = JSON.parse(data);
+    const data = fs.readFileSync('./data/weapons.json');
+    const weapons = JSON.parse(data);
 
-    await Monster.insertMany(monsters);
+    await Weapon.insertMany(weapons);
     console.log('Data imported successfully');
 
     mongoose.disconnect();
