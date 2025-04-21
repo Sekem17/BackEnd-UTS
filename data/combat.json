@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Goblin Ambush",
+      "participants": [
+        {
+          "name": "Archer",
+          "type": "player",
+          "initiative": 16,
+          "hp": 24
+        },
+        {
+          "name": "Goblin 1",
+          "type": "monster",
+          "initiative": 14,
+          "hp": 7
+        },
+        {
+          "name": "Goblin 2",
+          "type": "monster",
+          "initiative": 12,
+          "hp": 7
+        }
+      ],
+      "round": 1,
+      "active": true
+    }
+  ]
+  
