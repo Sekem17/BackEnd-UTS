@@ -1,6 +1,6 @@
 [
     {
-      "name": "Goblin Ambush",
+      "name": "Goblin kecil",
       "participants": [
         {
           "name": "Archer",
@@ -9,13 +9,13 @@
           "hp": 24
         },
         {
-          "name": "Goblin 1",
+          "name": "Goblin cacat",
           "type": "monster",
           "initiative": 14,
           "hp": 7
         },
         {
-          "name": "Goblin 2",
+          "name": "Goblin gede",
           "type": "monster",
           "initiative": 12,
           "hp": 7
