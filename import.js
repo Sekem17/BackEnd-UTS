@@ -1,18 +1,17 @@
 const mongoose = require('mongoose');
 const fs = require('fs');
-const Weapon = require('./models/Weapon');
+const Spell = require('./models/Spell');
 
 mongoose.connect('mongodb+srv://Samuel:popapopi17@contohcluster.27tfw.mongodb.net/?retryWrites=true&w=majority&appName=contohCluster', {
     useNewUrlParser: true,
-    useUnifiedTopology: true
 })
 .then(async () => {
     console.log('Connected to MongoDB');
     
-    const data = fs.readFileSync('./data/weapons.json');
-    const weapons = JSON.parse(data);
+    const data = fs.readFileSync('./data/spells.json');
+    const spells = JSON.parse(data);
 
-    await Weapon.insertMany(weapons);
+    await Spell.insertMany(spells);
     console.log('Data imported successfully');
 
     mongoose.disconnect();
