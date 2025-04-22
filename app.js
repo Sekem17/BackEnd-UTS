@@ -2,11 +2,13 @@ const express = require('express');
 const app = express();
 const monstersRoute = require('./routes/monsters');
 const weaponsRoute = require('./routes/weapons');
+const spellsRoute = require('./routes/spells');
 const mongoose = require('mongoose');
 
 app.use(express.json());
 app.use('/api/v1/monsters', monstersRoute);
 app.use('/api/v1/weapons',weaponsRoute);
+app.use('/api/v1/spells',spellsRoute);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => {
