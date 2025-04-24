@@ -72,15 +72,11 @@
     },
 
     {
-        "name": "Flaming Sword",
-        "type": "Weapon",
-        "rarity": "Rare",
-        "ability": "Fireball",
-        "description": "This sword can cast a fireball while using it"
+        "name": "Golem's Core",
+        "type": "Item",
+        "rarity": "Epic",
+        "ability": "Summon Golem",
+        "description": "This core can summon a golem to fight for you"
     }
-
-
-
-
 
 ]
