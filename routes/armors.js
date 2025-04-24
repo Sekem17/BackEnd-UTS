@@ -1,6 +1,6 @@
-const express=require('express');
-const router=express.Router();
-const Armor=require('../models/Armor');
+const express = require('express');
+const router = express.Router();
+const Armor = require('../models/Armor');
 
 router.get('/',async(req,res)=>{
 try{
