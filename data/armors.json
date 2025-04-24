@@ -1,0 +1,93 @@
+[
+    {
+        "name": "Golden Armor",
+        "type": "Chestplate",
+        "rarity": "Uncommon",
+        "category": "Medium",
+        "defense": 25,
+        "ability": "None"
+    },
+
+    {
+        "name": "Helm of Persistent",
+        "type": "Helmet",
+        "rarity": "Rare",
+        "category": "Medium",
+        "defense": 28,
+        "ability": "Fire Resistance"
+    },
+
+    {
+        "name": "Lorica Hamata",
+        "type": "Chestplate",
+        "rarity": "Epic",
+        "category": "Heavy",
+        "defense": 55,
+        "ability": "None"
+    },
+
+    {
+        "name": "Bronze Cuirass",
+        "type": "Chestplate",
+        "rarity": "Uncommon",
+        "category": "Light",
+        "defense": 19,
+        "ability": "None"
+    },
+
+    {
+        "name": "Mantle of the Undying",
+        "type": "Pauldrons",
+        "rarity": "Epic",
+        "category": "Light",
+        "defense": 30,
+        "ability": "Triple Health"
+    },
+
+    {
+        "name": "Gauntlets of Herculean",
+        "type": "Gauntlets",
+        "rarity": "Rare",
+        "category": "Light",
+        "defense": 8,
+        "ability": "Double Attack"
+    },
+
+    {
+        "name": "Spangenhelm",
+        "type": "Helmet",
+        "rarity": "Uncommon",
+        "category": "Medium",
+        "defense": 22,
+        "ability": "None"
+    },
+
+    {
+        "name": "Iron Leggings",
+        "type": "Leggings",
+        "rarity": "Common",
+        "category": "Medium",
+        "defense": 17,
+        "ability": "None"
+    },
+
+    {
+        "name": "Boots of Flash",
+        "type": "Boots",
+        "rarity": "Rare",
+        "category": "Medium",
+        "defense": 11,
+        "ability": "Double Speed"
+    },
+
+    {
+        "name": "Boots of Steel",
+        "type": "Boots",
+        "rarity": "Common",
+        "category": "Medium",
+        "defense": 9,
+        "ability": "None"
+    }
+
+
+]

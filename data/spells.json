@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Fireball",
+        "element": "Fire",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "30",
+        "effect": "Burning (Lose 10 HP each turn for 2 turns)",
+        "description": "A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame."
+    },
+
+    {
+        "name": "Lightning Bolt",
+        "element": "Lightning",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "20",
+        "effect": "Stun (Skip 1 turn)",
+        "description": "A stroke of lightning forming a line 5 feet wide blasts out from you in a direction you choose."
+    },
+
+    {
+        "name": "Healing Word",
+        "element": "Light",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "0",
+        "effect": "Heal (+10 HP)",
+        "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier."
+    },
+
+    {
+        "name": "Shield",
+        "element": "None",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "0",
+        "effect": "Give Shield ( +10 Defense for 3 turns)",
+        "description": "An invisible barrier of magical force appears and protects you."
+    },
+
+    {
+        "name": " Dark Force",
+        "element": "Dark",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "25",
+        "effect": "Blinded (can't use skills for 1 turn)",
+        "description": "You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends."
+    },
+
+    {
+        "name": "Ice Spike",
+        "element": "Ice",
+        "target_count": "Single Target",
+        "rarity": "Common",
+        "damage": "20",
+        "effect": "Slow (Lose  -10 speed for 1 turn)",
+        "description": "A shard of ice streaks toward a creature within range. Make a ranged spell attack against the target."
+    },
+
+    {
+        "name": "Earthquake",
+        "element": "Earth",
+        "target_count": "Area of Effect",
+        "rarity": "Rare",
+        "damage": "40",
+        "effect": "Stun (Skip 2 turn)",
+        "description": "You create a tremor in the ground that can be felt up to 100 miles away."
+    },
+
+    {
+        "name": "Meteor Shower",
+        "element": "Fire",
+        "target_count": "Area of Effect",
+        "rarity": "Epic",
+        "damage": "100",
+        "effect": "Super Burning (Lose 20 HP each turn for 3 turns)",
+        "description": "A rain of meteors falls in a 20-foot radius, dealing damage to all creatures in the area."
+    },
+
+    {
+        "name": "Tsunami",
+        "element": "Water",
+        "target_count": "Area of Effect",
+        "rarity": "Epic",
+        "damage": "80",
+        "effect": "Drowning (Lose 20 HP each turn for 2 turns)",
+        "description": "A massive wave crashes down in a 30-foot radius, dealing damage to all creatures in the area."
+    },
+
+    {
+        "name": "Time Stop",
+        "element": "Time",
+        "target_count": "Single Target",
+        "rarity": "Legendary",
+        "damage": "10",
+        "effect": "Skip 3 turns",
+        "description": "You briefly stop the flow of time for everyone but yourself."
+    }
+
+
+]

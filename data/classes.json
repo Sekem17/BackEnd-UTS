@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Knight",
+        "hp": 160,
+        "defense": 30,
+        "speed": 10,
+        "skill": "Sword Slash",
+        "passive": "Sword Mastery",
+        "type": "Basic Class",
+        "description": "A skilled warrior clad in heavy armor, wielding a sword with precision."
+    },
+
+    {
+        "name": "Mage",
+        "hp": 120,
+        "defense": 10,
+        "speed": 15,
+        "skill": "Fireball",
+        "passive": "Mana Mastery",
+        "type": "Basic Class",
+        "description": "A master of arcane arts, capable of casting powerful spells."
+    },
+
+    {
+        "name": "Rogue",
+        "hp": 100,
+        "defense": 15,
+        "speed": 20,
+        "skill": "Backstab",
+        "passive": "Stealth",
+        "type": "Basic Class",
+        "description": "A nimble and stealthy character, skilled in the art of deception."
+    },
+
+    {
+        "name": "Paladin",
+        "hp": 180,
+        "defense": 35,
+        "speed": 8,
+        "skill": "Holy Strike",
+        "passive": "Divine Shield",
+        "type": "Intermediate Class",
+        "description": "A holy warrior dedicated to upholding justice and righteousness."
+    },
+
+    {
+        "name": "Bard",
+        "hp": 110,
+        "defense": 12,
+        "speed": 18,
+        "skill": "Inspire Courage",
+        "passive": "Song of Rest",
+        "type": "Intermediate Class",
+        "description": "A charismatic performer who uses music to inspire allies and confuse foes."
+    },
+
+    {
+        "name": "Druid",
+        "hp": 130,
+        "defense": 18,
+        "speed": 12,
+        "skill": "Vine Whip",
+        "passive": "Nature's Resilience",
+        "type": "Intermediate Class",
+        "description": "A guardian of nature who can transform into animals and wield elemental magic."
+    },
+
+    {
+        "name": "Warlock",
+        "hp": 115,
+        "defense": 14,
+        "speed": 16,
+        "skill": "Eldritch Blast",
+        "passive": "Pact Magic",
+        "type": "Intermediate Class",
+        "description": "A spellcaster who has made a pact with a powerful entity for magical abilities."
+    },
+
+    {
+        "name": "Ranger",
+        "hp": 125,
+        "defense": 20,
+        "speed": 14,
+        "skill": "Hunter's Mark",
+        "passive": "Favored Enemy",
+        "type": "Basic Class",
+        "description": "A skilled tracker and hunter, adept at surviving in the wilderness."
+    },
+
+    {
+        "name": "Cleric",
+        "hp": 140,
+        "defense": 22,
+        "speed": 10,
+        "skill": "Healing Word",
+        "passive": "Divinity Power",
+        "type": "Intermediate Class",
+        "description": "A divine spellcaster who channels the power of their deity to heal and protect."
+    },
+
+    {
+        "name": "Necromancer",
+        "hp": 110,
+        "defense": 15,
+        "speed": 12,
+        "skill": "Raise Undead",
+        "passive": "Dark Magic",
+        "type": "Intermediate Class",
+        "description": "A spellcaster with innate magical abilities, drawing power from their bloodline."
+    }
+
+]

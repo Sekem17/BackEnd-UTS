@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Scepter of Hope",
+        "type": "Weapon",
+        "rarity": "Epic",
+        "ability": "Health Regen",
+        "description": "This scepter can regenerate health back"
+    },
+
+    {
+        "name": "Icicle Scroll",
+        "type": "Scroll",
+        "rarity": "Rare",
+        "ability": "Freeze",
+        "description": "This scroll can freeze anyone for 10 seconds"
+    },
+
+    {
+        "name": "Cloak of Invisibility",
+        "type": "Armor",
+        "rarity": "Legendary",
+        "ability": "Invisible",
+        "description": "While wearing this cloak, you will becomme invisble for 20 seconds"
+    },
+
+    {
+        "name": "Circlet of Flame",
+        "type": "Armor",
+        "rarity": "Epic",
+        "ability": "Fire Resistance",
+        "description": "When using this circlet, you will be resistant to fire"
+    },
+
+    {
+        "name": "The Expert's Scroll",
+        "type": "Scroll",
+        "rarity": "Legendary",
+        "ability": "Triple Stats",
+        "description": "Triple the attack, defense, and health, while using this scroll"
+    },
+
+    {
+        "name": "Wizard's Bracelet",
+        "type": "Armor",
+        "rarity": "Rare",
+        "ability": "Fireball",
+        "description": "Create and throw a fireball to anyone"
+    },
+
+    {
+        "name": "Traveler's Cloak",
+        "type": "Armor",
+        "rarity": "Rare",
+        "ability": "Magic Resistance",
+        "description": "When using this cloak, you will be resistant to magic"
+    },
+
+    {
+        "name": "Wand of Nature",
+        "type": "Weapon",
+        "rarity": "Epic",
+        "ability": "Element Attack",
+        "description": "While using this wand, you will be able to attack with all elements combination"
+    },
+
+    {
+        "name": "Scroll of Perseverance",
+        "type": "Scroll",
+        "rarity": "Epic",
+        "ability": "Triple Health",
+        "description": "Triple health, while using this scroll"
+    },
+
+    {
+        "name": "Golem's Core",
+        "type": "Item",
+        "rarity": "Epic",
+        "ability": "Summon Golem",
+        "description": "This core can summon a golem to fight for you"
+    }
+
+]

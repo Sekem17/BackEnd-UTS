@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Iron Sword",
+        "type": "Sword",
+        "rarity": "Common",
+        "damage": 10,
+        "ability": "None"
+    },
+
+    {
+        "name": "Iron Axe",
+        "type": "Axe",
+        "rarity": "Common",
+        "damage": 12,
+        "ability": "None"
+    },
+
+    {
+        "name": "Wooden Bow",
+        "type": "Bow",
+        "rarity": "Common",
+        "damage": 15,
+        "ability": "None"
+    },
+
+    {
+        "name": "Wooden Staff",
+        "type": "Staff",
+        "rarity": "Common",
+        "damage": 15,
+        "ability": "None"
+    },
+
+    {
+        "name": "Steel Sword",
+        "type": "Sword",
+        "rarity": "Uncommon",
+        "damage": 20,
+        "ability": "None"
+    },
+
+    {
+        "name": "Magic Wand",
+        "type": "Wand",
+        "rarity": "Rare",
+        "damage": 30,
+        "ability": "Fireball"
+    },
+
+    {
+        "name": "Enchanted Bow",
+        "type": "Bow",
+        "rarity": "Rare",
+        "damage": 40,
+        "ability": "Lightning Arrow"
+    },
+
+    {
+        "name": "Magic Sword",
+        "type": "Sword",
+        "rarity": "Rare",
+        "damage": 50,
+        "ability": "Fireball"
+    },
+    {
+        "name": "Dragon Slayer",
+        "type": "Sword",
+        "rarity": "Epic",
+        "damage": 100,
+        "ability": "Dragon's Bane"
+    }, 
+
+    {
+        "name": "Excalibur",
+        "type": "Sword",
+        "rarity": "Legendary",
+        "damage": 1000,
+        "ability": "Holy Light"
+    }
+]
